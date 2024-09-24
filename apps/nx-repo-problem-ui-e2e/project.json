@@ -1,0 +1,9 @@
+{
+  "name": "nx-repo-problem-ui-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/nx-repo-problem-ui-e2e/src",
+  "implicitDependencies": ["nx-repo-problem-ui"],
+  "// targets": "to see all targets run: nx show project nx-repo-problem-ui-e2e --web",
+  "targets": {}
+}
